@@ -11,49 +11,63 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Geography, Southern CT State University, 2022
+* M.S. / Ph.D in Geography, The Pennsylvania State University (In Progress)
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Summer 2022
+* Supervising Youth Facilitator
+  * Upward Bound Math-Science at Wesleyan University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Academic Year 2020-2022
+* Academic Success Coach
+  * The Center for Academic Success and Accessibility at Southern CT State University
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+2017-2018
+* Youth Navigator
+  * Youth Continuum, inc.
   
-Talks
+Presentations & Speaking Engagements
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+Spring 2023
+* Crime and Morality - Session Chair, Penn State Institute for Korean Studies International Conference
+* Selling out: Neoliberalism, hip-hop, and BTS, Penn State Institute for Korean Studies International Conference
+* Finding queerness in GIS and cartography - Panel Organizer, American Association of Geographers Annual Meeting
+* Neo-Haven: A new methodological approach to exploring the rental market, American Association of Geographers Annual Meeting
+
+Fall 2022
+* Housing & the Right to the City - Invited Speaker, Albertus Magnus College 
+
+Spring 2022
+* Planning public spaces: Lived experiences in the city - Session Chair, American Association of Geographers Annual Meeting
+* Town/gown relations: A New Haven case study, American Association of Geographers Annual Meeting
+
+Fall 2021
+* Racing to the polls: The voter demographics of New Haven, CT, New England St. Lawrence Valley Regional District Meeting
+
+ 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Spring 2023
+* GEOG 6N: Maps and the Spatial Revolution - Teaching Assistant, The Pennsylvania State University
+
+Fall 2022
+* GEOG 2N: Apocalyptic Geographies - Teaching Assistant, The Pennsylvania State University
+
+Fall 2021
+* Housing & the Right to the City - Guest Lecturer, Albertus Magnus College
+* Mathematics - IGNITE Fellow, Teach for America
+
+
+Service and Volunteer Work
 ======
-* Currently signed in to 43 different slack teams
+Academic Year 2021-2022
+* New Haven Public School High School Tutor
+  * Office of Youth, Family, and Community
+
+Spring 2020
+* COVID-19 Drop-In Center Facilitator
+  * City of New Haven
+
+[2023_CV.docx](https://github.com/FM-Kim/FM-Kim.github.io/files/11021405/2023_CV.docx)
